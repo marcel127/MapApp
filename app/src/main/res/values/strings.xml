@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_qr_maps">Map</string>
+    <string name="title_activity_friends_maps">Map</string>
+    <string name="title_activity_find_my_friend">findMyFriendActivity</string>
+    <string name="title_activity_ble">BLEActivity</string>
+</resources>
